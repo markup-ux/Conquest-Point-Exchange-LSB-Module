@@ -3,7 +3,7 @@
 A tiny LandSandBoat/DSP-style Lua module that **auto-spawns a “CP Exchange” NPC beside every Signet/Conquest guard** when a zone loads. It lets players convert **Conquest Points (CP)** into end-game currencies with a clean, paginated UI and a safe purchase flow.
 
 > **Why?**  
-> Once players hit 75/max level, they’re less likely to join lower-level groups and CP often sits unused. This module turns CP into a valuable sink and convenience feature—encouraging capped players to engage in low/mid content and helping group formation—without teleporting all over.
+> Once players hit 75/max level, they’re less likely to join lower-level groups and CP often sits unused. This module turns CP into a valuable sink and convenience feature—encouraging capped players to engage in low/mid content and helping group formation.
 
 ---
 
