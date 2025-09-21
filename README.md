@@ -40,7 +40,7 @@ You can change rates/items—see **Configuration**.
 2. **Load it** (e.g., in your custom init/module loader):
 
    ```lua
-   custom/lua/cp_exchange_signet_buddy/lua
+   custom/lua/cp_exchange_signet_buddy.lua
    ```
 
 3. **Restart map** and visit any Signet/Conquest guard — the **CP Exchange** book should already be standing next to them.
